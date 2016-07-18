@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<entry_list version="1.0">
+	<entry id="aha"><ew>aha</ew><hw>aha</hw><sound><wav>aha00001.wav</wav><wpr>@-!h@</wpr></sound><pr>ä-ˈhä</pr><fl>interjection</fl><et>Middle English</et><def><date>14th century</date><dt><un>used to express surprise, triumph, or derision</un></dt></def></entry>
+	<entry id="AHA"><ew>AHA</ew><subj>CH#FH#MD</subj><hw>AHA</hw><sound><wav>aha0002c.wav</wav><wpr>+A-+Ach-!A</wpr></sound><pr>ˌā-(ˌ)āch-ˈā</pr><fl>noun</fl><def><date>1991</date><dt>:<sx>alpha hydroxy acid</sx></dt></def></entry>
+</entry_list>
